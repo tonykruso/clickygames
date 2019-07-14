@@ -1,0 +1,62 @@
+    
+[{
+    "id": 1,
+    "image": "./assets/images/pizza12.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/pizza1.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/pizza2.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/pizza3.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/pizza4.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/pizza5.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/pizza6.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/pizza7.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/pizza8.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/pizza9.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/pizza10.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/pizza11.jpg",
+    "clicked": false
+}
+]
