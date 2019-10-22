@@ -10,8 +10,8 @@ Downloading This Application
 To use this application:
 
 Clone this repo to your local machine:
-git clone git@github.com:stoversa/clicky-game.git
+git clone git@github.com:tonykruso/clickygames.git
 Open the repo and execute the following in the bash terminal. Doing so should install the required packages/dependencies:
-yarn install
+npm install
 Ready to play on your local? Try:
-yarn start
+npm run
