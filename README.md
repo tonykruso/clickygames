@@ -1,7 +1,7 @@
 Overview
 This is a simple but addictive (and serverless) memory game built using React. It relies and CSS animations and the app's state to shuffle around the images available for clicking.
 
-See a live example here: https://tonysclickygames.herokuapp.com/ Please enjoy!
+See a live example here: https://tonysclickygames.herokuapp.com/ Please enjoy! (heroku takes few seconds to load)
 
 Technologies Used:
 This project was bootstrapped with Create React App, and so requires npm/yarn.
